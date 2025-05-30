@@ -44,5 +44,5 @@
 ### 📫 Contact Me
 
 - 📧 Email: ahmedrafatbad666655557777@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/error1693/
-- 🌐 Portfolio: *Coming Soon*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/error1693/)
+- 🌐 [Portfolio](https://err.ct.ws/)
