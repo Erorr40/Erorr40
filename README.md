@@ -1,95 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ahmed <span style="font-weight:600;">aka Erorr40</span></h1>
+<!-- ============  Modern / Clean Profile README  ============ -->
+<!-- Tip: غيّر الألوان من theme=tokyonight أو theme=radical على راحتك -->
 
-<p align="center">
-  <b>Developer</b> • <b>Problem Solver</b> • <b>Tech Enthusiast</b><br/>
-  I enjoy building clean solutions, learning fast, and turning ideas into real projects.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+%E2%80%A2+Erorr40;Problem+Solver+%7C+Developer;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+
+<p>
+  <b>Developer</b> • <b>Problem Solving</b> • <b>Full‑stack basics</b><br/>
+  I build clean solutions, learn fast, and ship projects.
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/erorr1693/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ahmedrafatbad666655557777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://err.ct.ws/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Erorr40&style=for-the-badge&color=7AA2F7" alt="profile views" />
 
-## 🧠 Skills & Proficiency
-
-<table>
-  <tr>
-    <td><b>🚀 Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🌐 Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🗄️ Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🎨 Design</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🧩 Currently Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 📊 Core Competency
+## ✨ Tech Stack (Quick View)
 
-| Skill | Mastery |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,html,css,mysql,git,github,vscode,figma&perline=11" />
+</div>
+
+---
+
+## 📊 Skill Levels
+
+<div align="center">
+
+| Skill | Level |
 | :--- | :--- |
 | 🧩 **Problem Solving** | **100%** ██████████ |
 | 💻 **C++** | **100%** ██████████ |
-| 🏗️ **Data Structures** | **90%** &nbsp; █████████░ |
-| 🧱 **OOP** | **90%** &nbsp; █████████░ |
-| 🗄️ **Database** | **70%** &nbsp; ███████░░░ |
+| 🏗️ **Data Structures** | **90%** █████████░ |
+| 🧱 **OOP** | **90%** █████████░ |
+| 🗄️ **Database** | **70%** ███████░░░ |
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erorr40&show_icons=true&theme=radical&hide_border=true" alt="Erorr40's Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erorr40&theme=radical&hide_border=true" alt="Erorr40's Streak" />
-</p>
+<div align="center">
+
+<!-- Main stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Erorr40&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="stats"/>
+
+<!-- Top languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erorr40&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs"/>
+
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🧠 Now
 
-- 📧 Email: <a href="mailto:ahmedrafatbad666655557777@gmail.com">ahmedrafatbad666655557777@gmail.com</a>
-- 🔗 LinkedIn: https://www.linkedin.com/in/erorr1693/
-- 🌐 Portfolio: https://err.ct.ws/
+- Improving **backend + database** fundamentals  
+- Building **projects** with better structure and UI  
+- Daily practice in **problem solving**
+
+---
+
+## 📫 Contact
+
+- **Email:** ahmedrafatbad666655557777@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/erorr1693/  
+- **Portfolio:** https://err.ct.ws/
