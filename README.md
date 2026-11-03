@@ -38,35 +38,35 @@
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/Erorr40?tab=achievements">
-        <img width="85" src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" alt="Quickdraw" /><br/>
+        <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" /><br/>
         <sub><b>Quickdraw</b></sub><br/>
         <img src="https://img.shields.io/badge/Lightning-Fast-ff6436?style=flat-square" />
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Erorr40?tab=achievements">
-        <img width="85" src="https://github.githubassets.com/assets/pull-shark-default-c54d193d258b.png" alt="Pull Shark" /><br/>
+        <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" alt="Pull Shark" /><br/>
         <sub><b>Pull Shark</b></sub><br/>
         <img src="https://img.shields.io/badge/Silver%20Tier-x16-0A66C2?style=flat-square" />
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Erorr40?tab=achievements">
-        <img width="85" src="https://github.githubassets.com/assets/pair-extraordinaire-default-e9675440798e.png" alt="Pair Extraordinaire" /><br/>
+        <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" /><br/>
         <sub><b>Pair Extraordinaire</b></sub><br/>
         <img src="https://img.shields.io/badge/Co--Authored-PRs-10b981?style=flat-square" />
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Erorr40?tab=achievements">
-        <img width="85" src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" alt="Starstruck" /><br/>
+        <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" /><br/>
         <sub><b>Starstruck</b></sub><br/>
         <img src="https://img.shields.io/badge/16%2B%20Stars-OpenTune-eab308?style=flat-square" />
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Erorr40?tab=achievements">
-        <img width="85" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" /><br/>
+        <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" /><br/>
         <sub><b>YOLO</b></sub><br/>
         <img src="https://img.shields.io/badge/Merged-Direct-8b5cf6?style=flat-square" />
       </a>
