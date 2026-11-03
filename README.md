@@ -5,14 +5,14 @@
 
 <!-- ─── ANIMATED TYPING SUBTITLE ─── -->
 <a href="https://ahmedraafat.me">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF6436&center=true&vCenter=true&width=750&lines=Software+Engineering+%40+El-Sewedy+IATS+%E2%80%A2+Cairo%2C+Egypt;Architecting+High-Performance+Systems+in+C%2B%2B+%26+C%23+.NET;Building+Immersive+3D+Web+Experiences+with+React%2C+TS+%26+Three.js;Creator+of+OpenTune+%26+EduSphere+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF6436&center=true&vCenter=true&width=780&lines=Software+Systems+%26+Full-Stack+Engineer;Software+Engineering+%40+El-Sewedy+IATS+%E2%80%A2+Cairo%2C+Egypt;Architecting+High-Performance+Systems+in+C%2B%2B+%26+C%23+.NET;Building+Immersive+3D+WebGL+Platforms+with+React+%26+Three.js;Creator+of+OpenTune+%E2%80%A2+EduSphere+3D+%E2%80%A2+Antigravity+Remote" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ─── QUICK ACCESS PILLS ─── -->
 <a href="https://ahmedraafat.me">
-  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-ahmedraafat.me-ff6436?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=121216" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-ahmedraafat.me-ff6436?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=121216" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/ahmedraafat-/">
   <img src="https://img.shields.io/badge/LINKEDIN-AHMED_RAAFAT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121216" alt="LinkedIn" />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/WHATSAPP-DIRECT_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121216" alt="WhatsApp" />
 </a>
 <a href="mailto:ahmedrafatbad666655557777@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-DISPATCH-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121216" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121216" alt="Email" />
 </a>
 
 </div>
@@ -30,7 +30,57 @@
 
 ---
 
-### `01 // SYSTEM ARCHITECTURE & IDENTITY`
+### `01 // GITHUB ACHIEVEMENTS & TROPHIES`
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/Erorr40?tab=achievements">
+        <img width="85" src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" alt="Quickdraw" /><br/>
+        <sub><b>Quickdraw</b></sub><br/>
+        <img src="https://img.shields.io/badge/Lightning-Fast-ff6436?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Erorr40?tab=achievements">
+        <img width="85" src="https://github.githubassets.com/assets/pull-shark-default-c54d193d258b.png" alt="Pull Shark" /><br/>
+        <sub><b>Pull Shark</b></sub><br/>
+        <img src="https://img.shields.io/badge/Silver%20Tier-x16-0A66C2?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Erorr40?tab=achievements">
+        <img width="85" src="https://github.githubassets.com/assets/pair-extraordinaire-default-e9675440798e.png" alt="Pair Extraordinaire" /><br/>
+        <sub><b>Pair Extraordinaire</b></sub><br/>
+        <img src="https://img.shields.io/badge/Co--Authored-PRs-10b981?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Erorr40?tab=achievements">
+        <img width="85" src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" alt="Starstruck" /><br/>
+        <sub><b>Starstruck</b></sub><br/>
+        <img src="https://img.shields.io/badge/16%2B%20Stars-OpenTune-eab308?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Erorr40?tab=achievements">
+        <img width="85" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" /><br/>
+        <sub><b>YOLO</b></sub><br/>
+        <img src="https://img.shields.io/badge/Merged-Direct-8b5cf6?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<sub>Explore complete profile badges in the <a href="https://github.com/Erorr40?tab=achievements"><b>Achievements Tab</b></a></sub>
+
+</div>
+
+---
+
+### `02 // SYSTEM ARCHITECTURE & IDENTITY`
 
 ```cpp
 #include <iostream>
@@ -47,9 +97,9 @@ namespace Engineering {
         
         std::vector<std::string> domains = {
             "Low-Level Systems, Memory Management & Algorithmic Optimization (C++ / C#)",
-            "Enterprise Backend Services & RESTful Architectures (ASP.NET Core / Node.js)",
+            "Enterprise Backend Services & RESTful Architectures (ASP.NET Core .NET 8 / Node.js)",
             "Type-Safe Frontend & Interactive 3D WebGL Platforms (React / TypeScript / Three.js)",
-            "Open-Source Android & Media Streaming Engineering (Kotlin / Jetpack Compose)"
+            "Mobile & Audio Streaming Engineering (Android Kotlin / Jetpack Compose / Flutter)"
         };
 
         std::string philosophy = "Engineer for speed. Structure for scale. Design for impact.";
@@ -59,7 +109,7 @@ namespace Engineering {
 
 ---
 
-### `02 // FLAGSHIP SPOTLIGHT`
+### `03 // FLAGSHIP SPOTLIGHT`
 
 <div align="center">
 
@@ -82,12 +132,15 @@ An advanced, lightweight, and privacy-first open-source YouTube Music client for
 <a href="https://github.com/Erorr40/OpenTune/releases">
   <img src="https://img.shields.io/badge/DOWNLOAD_RELEASES-10b981?style=for-the-badge&logo=android&logoColor=white&labelColor=16161d" alt="OpenTune Releases" />
 </a>
+<a href="https://github.com/Erorr40/OpenTune/stargazers">
+  <img src="https://img.shields.io/github/stars/Erorr40/OpenTune?style=for-the-badge&color=eab308&labelColor=16161d" alt="OpenTune Stars" />
+</a>
 
 </div>
 
 ---
 
-### `03 // SELECTED ENGINEERING REPERTORY`
+### `04 // SELECTED ENGINEERING REPERTORY`
 
 <table width="100%">
   <tr>
@@ -112,7 +165,7 @@ An advanced, lightweight, and privacy-first open-source YouTube Music client for
     <td width="50%" valign="top">
       <h3 align="left">🏎️ NextGen Garage System</h3>
       <p align="left">
-        <strong>Smart Parking & Automotive Enterprise Platform</strong><br/>
+        <strong>Smart Valet Parking & Automotive Management Platform</strong><br/>
         Full-stack workshop and smart parking management platform with QR code slot tracking, real-time maintenance scheduling, automated invoicing, and live financial telemetry.
       </p>
       <p align="left">
@@ -122,40 +175,43 @@ An advanced, lightweight, and privacy-first open-source YouTube Music client for
         <a href="https://garage-sys-front.pages.dev/">
           <img src="https://img.shields.io/badge/Live_Demo-ff6436?style=flat-square&logo=vercel&logoColor=white" alt="Garage Live" />
         </a>
-        <a href="https://github.com/Erorr40">
-          <img src="https://img.shields.io/badge/GitHub-16161d?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <a href="https://github.com/Erorr40/Nextgen-Garage-System">
+          <img src="https://img.shields.io/badge/Source_Code-16161d?style=flat-square&logo=github&logoColor=white" alt="Garage Repo" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🏛️ El-Sa3dia Institutional Portal</h3>
+      <h3 align="left">🛡️ Attendance System Enterprise</h3>
       <p align="left">
-        <strong>Academic & School Administration Ecosystem</strong><br/>
-        Modern bilingual institutional web platform connecting students, faculty, and administration with real-time grade reporting, class schedules, and announcements.
+        <strong>High-Reliability Institutional Attendance Platform</strong><br/>
+        Dual-tier architecture featuring an ASP.NET Core RESTful backend paired with a reactive TypeScript frontend for high-throughput institutional attendance tracking and reporting.
       </p>
       <p align="left">
-        <code>React</code> <code>Tailwind CSS</code> <code>UI/UX System</code> <code>RTL Support</code>
+        <code>ASP.NET Core</code> <code>C#</code> <code>TypeScript</code> <code>EF Core</code> <code>SQL Server</code>
       </p>
       <p align="left">
-        <a href="https://el-saidia-school.pages.dev/">
-          <img src="https://img.shields.io/badge/Live_Demo-ff6436?style=flat-square&logo=vercel&logoColor=white" alt="Sa3dia Live" />
+        <a href="https://github.com/Erorr40/Attendance-SystemBackend.NET">
+          <img src="https://img.shields.io/badge/Backend_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Backend Repo" />
+        </a>
+        <a href="https://github.com/Erorr40/Attendance-SystemFrontend">
+          <img src="https://img.shields.io/badge/Frontend_App-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Frontend Repo" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🧩 KidPath Cognitive Platform</h3>
+      <h3 align="left">📡 Antigravity Remote</h3>
       <p align="left">
-        <strong>Gamified Child Development Environment</strong><br/>
-        Interactive e-learning capstone platform built with responsive Arabic RTL support, cognitive challenges, and audio-visual cues to foster early creativity.
+        <strong>Secure E2EE Mobile Companion & Remote Daemon</strong><br/>
+        End-to-end encrypted remote control client for Android paired with a desktop companion daemon for seamless cross-device telemetry and execution.
       </p>
       <p align="left">
-        <code>JavaScript ES6+</code> <code>CSS3 Animations</code> <code>Gamification</code>
+        <code>Flutter</code> <code>Dart</code> <code>Cryptography</code> <code>Sockets</code>
       </p>
       <p align="left">
-        <a href="https://kidpath.ct.ws/">
-          <img src="https://img.shields.io/badge/Live_Demo-ff6436?style=flat-square&logo=vercel&logoColor=white" alt="KidPath Live" />
+        <a href="https://github.com/Erorr40/antigravity-remote">
+          <img src="https://img.shields.io/badge/Source_Code-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Antigravity Remote Repo" />
         </a>
       </p>
     </td>
@@ -164,22 +220,23 @@ An advanced, lightweight, and privacy-first open-source YouTube Music client for
 
 ---
 
-### `04 // TECHNICAL ARSENAL & TOOLING`
+### `05 // TECHNICAL ARSENAL & TOOLING`
 
 <div align="center">
 
-| Layer | Technologies & Stack |
+| Domain | Core Stack & Frameworks |
 | :--- | :--- |
-| **Systems & Languages** | <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,ts,js,py&theme=dark" alt="Systems & Languages" /> |
+| **Low-Level & Systems** | <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,ts,js,py&theme=dark" alt="Systems & Languages" /> |
 | **Frontend & 3D Web** | <img src="https://skillicons.dev/icons?i=react,vue,threejs,tailwind,html,css&theme=dark" alt="Frontend & 3D" /> |
 | **Backend & Databases** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mongodb,postgres,mysql,sqlite&theme=dark" alt="Backend & Databases" /> |
-| **DevOps, IDEs & Design** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,rider,visualstudio,vscode,figma,linux&theme=dark" alt="DevOps & Tools" /> |
+| **Mobile & Cross-Platform** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart&theme=dark" alt="Mobile Stack" /> |
+| **DevOps, IDEs & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,rider,visualstudio,vscode,figma,linux&theme=dark" alt="DevOps & Tools" /> |
 
 </div>
 
 ---
 
-### `05 // ARCHITECTURAL FOCUS MATRIX`
+### `06 // ARCHITECTURAL FOCUS MATRIX`
 
 <div align="center">
 
@@ -187,14 +244,14 @@ An advanced, lightweight, and privacy-first open-source YouTube Music client for
 | :--- | :--- | :--- |
 | **`Systems & Algorithms`** | Memory Management, Pointers, OOP, Graphs (Dijkstra/BFS/DFS), Dynamic Programming | `██████████ 94%` |
 | **`3D & Frontend Web`** | React, TypeScript, Three.js, WebGL Shaders, Responsive Design Systems | `█████████░ 92%` |
-| **`Backend & Data Layer`** | ASP.NET Core, Entity Framework Core, Node.js, REST APIs, SQL & MongoDB | `█████████░ 90%` |
-| **`Mobile & Desktop`** | Android (Kotlin / Jetpack Compose), C# WPF Desktop Architectures | `████████░░ 86%` |
+| **`Backend & Data Layer`** | ASP.NET Core .NET 8, Entity Framework Core, Node.js, REST APIs, SQL & MongoDB | `█████████░ 90%` |
+| **`Mobile & Desktop`** | Android (Kotlin / Jetpack Compose), Flutter, C# WPF Desktop Architectures | `████████░░ 88%` |
 
 </div>
 
 ---
 
-### `06 // GITHUB TELEMETRY & ANALYTICS`
+### `07 // GITHUB TELEMETRY & ANALYTICS`
 
 <div align="center">
 
@@ -215,7 +272,7 @@ An advanced, lightweight, and privacy-first open-source YouTube Music client for
 
 ---
 
-### `07 // DIRECT COMMUNICATION CHANNELS`
+### `08 // DIRECT COMMUNICATION CHANNELS`
 
 <div align="center">
 
