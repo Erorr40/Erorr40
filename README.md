@@ -47,7 +47,7 @@
       <a href="https://github.com/Erorr40?tab=achievements">
         <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" /><br/>
         <sub><b>Starstruck</b></sub><br/>
-        <img src="https://img.shields.io/badge/16%2B%20Stars-OpenTune-eab308?style=flat-square" />
+        <img src="https://img.shields.io/badge/18%2B%20Stars-OpenTune-eab308?style=flat-square" />
       </a>
     </td>
     <td align="center" width="20%">
