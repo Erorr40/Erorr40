@@ -45,20 +45,6 @@
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Erorr40?tab=achievements">
-        <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" alt="Pull Shark" /><br/>
-        <sub><b>Pull Shark</b></sub><br/>
-        <img src="https://img.shields.io/badge/Silver%20Tier-x16-0A66C2?style=flat-square" />
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Erorr40?tab=achievements">
-        <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" /><br/>
-        <sub><b>Pair Extraordinaire</b></sub><br/>
-        <img src="https://img.shields.io/badge/Co--Authored-PRs-10b981?style=flat-square" />
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Erorr40?tab=achievements">
         <img width="85" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" /><br/>
         <sub><b>Starstruck</b></sub><br/>
         <img src="https://img.shields.io/badge/16%2B%20Stars-OpenTune-eab308?style=flat-square" />
